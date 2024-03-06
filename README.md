@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end developer**
 
-- 🤝 I’m looking for help with **devops**
+- 🤝 I’m looking for help with **developers**
 
 - 💬 Ask me about **web services**
 
