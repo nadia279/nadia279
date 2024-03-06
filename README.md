@@ -9,9 +9,13 @@
 
 - 👯 I’m looking to collaborate on **Front-end developer**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **devops**
+
+- 💬 Ask me about **web services**
 
 - 📫 How to reach me **nadiahussain257@gmail.com**
+
+- ⚡ Fun fact **I can help with detecting errors**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadia279&show_icons=true&locale=en&layout=compact" alt="nadia279" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nadia279&show_icons=true&locale=en" alt="nadia279" /></p>
-
